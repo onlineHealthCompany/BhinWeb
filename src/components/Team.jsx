@@ -1,8 +1,10 @@
 import React from 'react';
 import '../App.css';
-import Img1 from '../assets/Images/doc.jpg';
+import doctor from '../assets/images/new_doc.jpg'
+import newJoke from '../assets/images/new_joke.jpg'
+// import Img1 from '../assets/Images/doc.jpg';
 import Img2 from '../assets/Images/VP.jpg';
-import Img3 from '../assets/Images/joke.jpg';
+// import Img3 from '../assets/Images/joke.jpg';
 import Img4 from '../assets/Images/prof.jpg';
 import Img5 from '../assets/Images/prof2.jpg';
 import Img6 from '../assets/Images/prof3.jpg';
@@ -26,7 +28,7 @@ const TeamPage = () => {
     {
       name: 'Temitope Farombi MBBS, FMCP (Neurology)',
       title: 'Founder and CEO',
-      image: Img1
+      image: doctor /*Img1*/
     },
     {
       name: 'Dr Elugbadebo',
@@ -36,7 +38,7 @@ const TeamPage = () => {
     {
       name: 'Olajoke Akinyemi, MPH',
       title: 'Program Manager',
-      image: Img3
+      image: newJoke/*Img3*/
     },
     {
       name: 'Professor Jesse Abiodun',
