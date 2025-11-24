@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import Img1 from '../assets/Images/DOC.jpg';
+import Img1 from '../assets/Images/doc.jpg';
 import Img2 from '../assets/Images/VP.jpg';
 import Img3 from '../assets/Images/JOKE.jpg';
 import Img4 from '../assets/Images/prof.jpg';
