@@ -1,9 +1,9 @@
 import React from "react";
 import '../App.css'
-import Product3 from '../assets/Images/Brain-lit.jpeg';
-import Product1 from '../assets/Images/older.jpg';
-import Product2 from '../assets/Images/Ct.JPG';
-import Product4 from '../assets/Images/Sch.jpg';
+import Product3 from '../assets/images/Brain-lit.jpeg';
+import Product1 from '../assets/images/older.jpg';
+import Product2 from '../assets/images/Ct.JPG';
+import Product4 from '../assets/images/Sch.jpg';
 
 const Program = () => {
     const Images = [
