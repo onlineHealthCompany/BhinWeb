@@ -44,6 +44,13 @@ export default function Contact() {
               improve brain health awareness and support for communities. Your
               connections can help us expand our reach and impact.
             </p>
+
+            <div className="">
+              <h2 style={{marginTop: "16px"}}>Account Details</h2>
+              <p className='accont_details'><b>Acount Name: </b>Brain Health Initiative Nigeria</p>
+              <p className='accont_details'><b>Account Number: </b>6981591019</p>
+              <p className='accont_details'><b>Bank: </b>FCMB</p>
+            </div>
           </div>
 
           <div className="right-section">
