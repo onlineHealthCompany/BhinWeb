@@ -3,12 +3,12 @@ import '../App.css';
 import doctor from '../assets/images/new_doc.jpg'
 import newJoke from '../assets/images/new_joke.jpg'
 // import Img1 from '../assets/Images/doc.jpg';
-import Img2 from '../assets/Images/VP.jpg';
+import Img2 from '../assets/images/VP.jpg';
 // import Img3 from '../assets/Images/joke.jpg';
-import Img4 from '../assets/Images/prof.jpg';
-import Img5 from '../assets/Images/prof2.jpg';
-import Img6 from '../assets/Images/prof3.jpg';
-import Img7 from '../assets/Images/Mr.jpg';
+import Img4 from '../assets/images/prof.jpg';
+import Img5 from '../assets/images/prof2.jpg';
+import Img6 from '../assets/images/prof3.jpg';
+import Img7 from '../assets/images/Mr.jpg';
 const TeamMember = ({ name, title, image }) => (
   <div className="member-card">
     <div className="member-container">
