@@ -1,7 +1,7 @@
 import React from "react";
 import '../App.css'
 import Product3 from '../assets/images/Brain-lit.jpeg';
-import Product1 from '../assets/images/older.jpg';
+import Product1 from '../assets/images/Older.jpg';
 import Product2 from '../assets/images/Ct.JPG';
 import Product4 from '../assets/images/Sch.jpg';
 
